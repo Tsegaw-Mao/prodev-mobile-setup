@@ -1,0 +1,3 @@
+- installed Expo Go on my phone
+- installed expo and expo-cli on my laptop
+- completed my first Expo App
